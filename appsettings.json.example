@@ -1,0 +1,10 @@
+{
+    "ConnectionStrings": {
+        "MongoDb": "mongodb://[HOST]:[PORT]/[DATABASE_NAME]"
+    },
+    "Jwt": {
+        "Key": "[YOUR_JWT_SECRET_KEY]",
+        "Issuer": "[YOUR_ISSUER]",
+        "Audience": "[YOUR_AUDIENCE]"
+    }
+}
